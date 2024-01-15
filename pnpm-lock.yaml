@@ -8,9 +8,6 @@ dependencies:
   expo:
     specifier: ^49.0.15
     version: 49.0.21(@babel/core@7.23.7)
-  expo-status-bar:
-    specifier: ^1.6.0
-    version: 1.7.1
   react:
     specifier: 18.2.0
     version: 18.2.0
@@ -4221,10 +4218,6 @@ packages:
     dependencies:
       compare-versions: 3.6.0
       invariant: 2.2.4
-    dev: false
-
-  /expo-status-bar@1.7.1:
-    resolution: {integrity: sha512-Wkm9uCmuQQBSU+l/AekWAQ1d0FYw560yL116+OAKJDyKBOUpPURoWkFbabM1EDxv+5scTuSThr/CvsA0nsSCow==}
     dev: false
 
   /expo@49.0.21(@babel/core@7.23.7):
